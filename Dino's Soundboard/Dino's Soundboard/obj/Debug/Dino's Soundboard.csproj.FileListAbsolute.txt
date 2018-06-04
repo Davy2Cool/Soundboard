@@ -1,0 +1,10 @@
+c:\users\games\documents\visual studio 2015\Projects\Dino's Soundboard\Dino's Soundboard\bin\Debug\Dino's Soundboard.exe.config
+c:\users\games\documents\visual studio 2015\Projects\Dino's Soundboard\Dino's Soundboard\bin\Debug\Dino's Soundboard.exe
+c:\users\games\documents\visual studio 2015\Projects\Dino's Soundboard\Dino's Soundboard\bin\Debug\Dino's Soundboard.pdb
+c:\users\games\documents\visual studio 2015\Projects\Dino's Soundboard\Dino's Soundboard\bin\Debug\FlatUI.dll
+c:\users\games\documents\visual studio 2015\Projects\Dino's Soundboard\Dino's Soundboard\obj\Debug\Dino's Soundboard.csprojResolveAssemblyReference.cache
+c:\users\games\documents\visual studio 2015\Projects\Dino's Soundboard\Dino's Soundboard\obj\Debug\Dino_s_Soundboard.Properties.Resources.resources
+c:\users\games\documents\visual studio 2015\Projects\Dino's Soundboard\Dino's Soundboard\obj\Debug\Dino's Soundboard.csproj.GenerateResource.Cache
+c:\users\games\documents\visual studio 2015\Projects\Dino's Soundboard\Dino's Soundboard\obj\Debug\Dino's Soundboard.exe
+c:\users\games\documents\visual studio 2015\Projects\Dino's Soundboard\Dino's Soundboard\obj\Debug\Dino's Soundboard.pdb
+c:\users\games\documents\visual studio 2015\Projects\Dino's Soundboard\Dino's Soundboard\obj\Debug\Dino_s_Soundboard.Soundboard.resources
